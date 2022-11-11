@@ -1,0 +1,15 @@
+In 1995 brenden eich developed the for netscape company with the name of the LiveScript.
+C languagate programmer
+
+Later they renamed to the Javascript.
+
+
+In 1997 netscape had to connected to the ECMA(European Computer Manufacturers Association)  
+for follwing the ECMA standards.
+
+
+In 1997 javascript-ES1 or ECMAscript1.0 First version was released.
+IE(Microsoft browser) is the first browser supported the ES1
+
+Present version of ecma is 13 which is published in June 2022.
+
